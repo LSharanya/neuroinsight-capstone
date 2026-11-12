@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+
+data/
+SAM40/
+
+*.npz
+!concept_stats.npz
+
+stress_report.md
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
